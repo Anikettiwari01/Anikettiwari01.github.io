@@ -71,3 +71,8 @@ $(document).ready(function(){
         }
     });
 });
+
+function resumeDownload(){
+   
+    window.open("fw22_0939-Aniket-Tiwari-Resume.pdf","_blank");
+  }
