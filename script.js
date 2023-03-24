@@ -74,5 +74,5 @@ $(document).ready(function(){
 
 function resumeDownload(){
    
-    window.open("fw22_0939-Aniket-Tiwari-Resume.pdf","_blank");
+    window.open("https://drive.google.com/file/d/1b1EpXQNNEiWCdEBhrsa3Y6ZR3Sxnu-p3/view?usp=share_link","_blank");
   }
